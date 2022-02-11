@@ -1,0 +1,9 @@
+{
+  "name": "ch_1",
+  "version": "1.0.0",
+  "dependencies": {
+    "prettier": "^2.5.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  }
+}
